@@ -1,0 +1,9 @@
+.idea
+xunit_reports.xml
+htmlReport.html
+mini_report.html
+*.log
+*.pyc
+*.swp
+/result.json
+*~
